@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<array>
+		<string>Spain</string>
+		<string>Lithuania</string>
+		<string>France</string>
+	</array>
+	<array>
+		<string>Barcelona</string>
+		<string>Madrid</string>
+		<string>Cadiz</string>
+		<string>Sevilla</string>
+	</array>
+	<array>
+		<string>Paris</string>
+		<string>Anger</string>
+		<string>Normandy</string>
+		<string>Perpignon</string>
+	</array>
+	<array>
+		<string>Vilnius</string>
+		<string>Kaunas</string>
+		<string>Klaipeda</string>
+	</array>
+	<array>
+		<string>SPanish</string>
+		<string>Catalan</string>
+		<string>ENglish</string>
+	</array>
+	<array>
+		<string>French</string>
+		<string>English</string>
+	</array>
+	<array>
+		<string>LIthuanian</string>
+		<string>Russian</string>
+		<string>English</string>
+	</array>
+</array>
+</plist>

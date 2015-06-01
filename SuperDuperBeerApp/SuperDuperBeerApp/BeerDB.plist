@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>BeerName</key>
+		<string>Kalnapilis</string>
+		<key>BeerOrigin</key>
+		<string>Lithuania</string>
+		<key>AlcoLevel</key>
+		<string>5.0</string>
+		<key>BeerImage</key>
+		<string>KalnapilisBottle</string>
+		<key>BeerLogo</key>
+		<string>KalnapilisLogo</string>
+		<key>CountryFlag</key>
+		<string>LithuaniaFlag</string>
+	</dict>
+	<dict>
+		<key>BeerName</key>
+		<string>Estrella</string>
+		<key>BeerOrigin</key>
+		<string>Spain</string>
+		<key>AlcoLevel</key>
+		<string>5.5</string>
+		<key>BeerImage</key>
+		<string>EstrellaBottle</string>
+		<key>BeerLogo</key>
+		<string>EstrellaLogo</string>
+		<key>CountryFlag</key>
+		<string>SpainFlag</string>
+	</dict>
+	<dict>
+		<key>BeerName</key>
+		<string>Mythos</string>
+		<key>BeerOrigin</key>
+		<string>Greece</string>
+		<key>AlcoLevel</key>
+		<string>5.5</string>
+		<key>BeerImage</key>
+		<string>MythosBottle</string>
+		<key>BeerLogo</key>
+		<string>MythosLogo</string>
+		<key>CountryFlag</key>
+		<string>GreeceFlag</string>
+	</dict>
+	<dict>
+		<key>BeerName</key>
+		<string>Sagres</string>
+		<key>BeerOrigin</key>
+		<string>Portugal</string>
+		<key>AlcoLevel</key>
+		<string>5.1</string>
+		<key>BeerImage</key>
+		<string>SagresBottle</string>
+		<key>BeerLogo</key>
+		<string>SagresLogo</string>
+		<key>CountryFlag</key>
+		<string>PortugalFlag</string>
+	</dict>
+</array>
+</plist>
